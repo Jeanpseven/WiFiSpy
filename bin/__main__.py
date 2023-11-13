@@ -58,7 +58,7 @@ oooo     oooo o88   ooooooooooo o88"""+color.RED+"""    oooooooo8"""+color.LIGHT
    888 888     888   888         888"""+color.RED+"""          888 888    888  888 888"""+color.LIGHTGREEN+"""   
     8   8     o888o o888o       o888o"""+color.RED+""" o88oooo888  888ooo88      8888"""+color.CYAN+""" 
    [ WiFiSpy - V.1.0 ]                           """+color.RED+"""o888        o8o888"""+color.CYAN+"""    
-   [ Coded By Ghosty / DeaDHackS Team ]                       
+   [ Modded by Jeanpseven(Wrench) / Coded By Ghosty / DeaDHackS Team ]                       
    [ https://github.com/WiFiSpy ]
 """)
     LOADING_SECONDS = 10 
